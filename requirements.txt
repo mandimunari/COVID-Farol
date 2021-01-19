@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+yaml
+requests
+seaborn
+matplotlib
+scipy
+rpy2
